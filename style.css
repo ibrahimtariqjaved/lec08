@@ -1,0 +1,24 @@
+
+
+.header {
+    background-color: lightblue;
+    padding: 20px;
+  }
+
+@media (max-width: 600px ){
+.header {
+    background-color: rgb(173, 174, 230);
+    padding: 20px;
+  }
+}
+  
+  .content {
+    background-color: lightyellow;
+    padding: 20px;
+  }
+  
+  .footer {
+    background-color: lightgray;
+    padding: 10px;
+  }
+  
